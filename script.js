@@ -55,7 +55,7 @@ var timers = [
       reset: 'Resets every 3 days',
       reference: timerRaid20Reference,      
       resetTime: oneDay*3,
-      img: 'https://aloofbit.github.io/turtle-timers/assets/raid-zg.jpg',
+      img: 'https://aloofbit.github.io/turtle-timers/assets/raid-aq.webp',
    },
 ]
 
