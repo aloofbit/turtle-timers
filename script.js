@@ -31,7 +31,7 @@ var timers = [
       reset: 'Resets every 7 days',
       reference: timerRaid40Reference,
       resetTime: oneDay*7,
-      img: './assets/images/raid-mc.webp',
+      img: 'https://aloofbit.github.io/turtle-timers/assets/raid-mc.webp',
    },
    {
       title: 'Onyxia',
@@ -39,7 +39,7 @@ var timers = [
       reset: 'Resets every 5 days',
       reference: timerOnyReference,
       resetTime: oneDay*5,
-      img: './assets/images/raid-ony.webp',
+      img: 'https://aloofbit.github.io/turtle-timers/assets/raid-ony.webp',
    },
    {
       title: 'Karazhan',
@@ -47,7 +47,7 @@ var timers = [
       reset: 'Resets every 5 days',
       reference: timerKaraReference,      
       resetTime: oneDay*5,
-      img: './assets/images/raid-kara.webp',
+      img: 'https://aloofbit.github.io/turtle-timers/assets/raid-kara.webp',
    },
    {
       title: 'Raid 20',
@@ -55,7 +55,7 @@ var timers = [
       reset: 'Resets every 3 days',
       reference: timerRaid20Reference,      
       resetTime: oneDay*3,
-      img: './assets/images/raid-zg.jpg',
+      img: 'https://aloofbit.github.io/turtle-timers/assets/raid-zg.jpg',
    },
 ]
 
